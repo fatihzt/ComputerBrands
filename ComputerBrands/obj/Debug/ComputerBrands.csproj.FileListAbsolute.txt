@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\bin\Debug\ComputerBrands.exe.config
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\bin\Debug\ComputerBrands.exe
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\bin\Debug\ComputerBrands.pdb
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\obj\Debug\ComputerBrands.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\obj\Debug\ComputerBrands.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\obj\Debug\ComputerBrands.Form1.resources
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\obj\Debug\ComputerBrands.Properties.Resources.resources
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\obj\Debug\ComputerBrands.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\obj\Debug\ComputerBrands.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\obj\Debug\ComputerBrands.exe
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\obj\Debug\ComputerBrands.pdb
+C:\Users\USER\source\repos\ComputerBrands\ComputerBrands\obj\Debug\ComputerBrands.AddBrandFrom.resources
